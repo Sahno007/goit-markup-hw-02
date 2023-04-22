@@ -1,12 +1,6 @@
-:root {
-    --
-}
-
-
 /* Body */
 
 .body {
-    font-family: "Roboto", sans-serif
-    color: #434455;
-    background-color: #FFFFFF
+  color: #434455;
+  background-color: #ffffff;
 }
