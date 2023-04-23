@@ -32,7 +32,7 @@
   color: #2e2f42;
   text-decoration: none;
 }
-.list-feature :hover,
+.list-feature .link:hover,
 :focus {
   color: #404bbf;
 }
@@ -47,9 +47,7 @@
   color: #434455;
   list-style: none;
 }
-.list-numb :hover {
-  color: #404bbf;
-}
-.list-numb :focus {
+.list-numb .link:hover,
+:focus {
   color: #404bbf;
 }
