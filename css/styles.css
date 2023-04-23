@@ -47,3 +47,9 @@
   color: #434455;
   list-style: none;
 }
+.list-numb :hover {
+  color: #404bbf;
+}
+.list-numb :focus {
+  color: #404bbf;
+}
