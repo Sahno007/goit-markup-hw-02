@@ -38,16 +38,16 @@
 }
 
 /* Address */
-.address-info {
+.address {
   font-style: normal;
 }
-.list-numb {
+.info {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
   list-style: none;
 }
-.list-numb .link:hover,
+.info .link:hover,
 :focus {
   color: #404bbf;
 }
