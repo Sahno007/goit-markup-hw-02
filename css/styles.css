@@ -24,6 +24,7 @@
 .log {
   color: #2e2f42;
 }
+
 .studio {
   font-weight: 500;
   line-height: 1.5;
@@ -33,5 +34,27 @@
 }
 .studio :hover,
 :focus {
+  color: #404bbf;
+}
+
+.portfolio {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  text-decoration: none;
+}
+.portfolio :hover :focus {
+  color: #404bbf;
+}
+
+.contacts {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  text-decoration: none;
+}
+.portfolio :hover :focus {
   color: #404bbf;
 }
