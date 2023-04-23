@@ -47,6 +47,10 @@
   color: var(--main-text-color);
   text-decoration: none;
 }
+.list:hover,
+:focus {
+  color: #404bbf;
+}
 
 /* Address */
 .address {
