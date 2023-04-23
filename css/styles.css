@@ -32,10 +32,6 @@
   color: #2e2f42;
   text-decoration: none;
 }
-.list-feature .link:hover,
-:focus {
-  color: #404bbf;
-}
 
 /* Address */
 .address {
@@ -47,7 +43,7 @@
   color: #434455;
   list-style: none;
 }
-.info .link:hover,
+.list .link:hover,
 :focus {
   color: #404bbf;
 }
