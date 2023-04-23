@@ -59,9 +59,8 @@
   list-style: none;
   text-decoration: none;
 }
-.list .link:hover {
-  color: #404bbf;
-}
+
+.list .link:hover,
 .list .link:focus {
   color: #404bbf;
 }
