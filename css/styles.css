@@ -80,7 +80,7 @@
   color: #ffffff;
 }
 
-.buttons {
+.button {
   background-color: var(--logo-button-color);
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -88,4 +88,61 @@
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
+}
+
+.button:hover,
+:focus {
+  background-color: #404bbf;
+  cursor: pointer;
+}
+
+/* Section 2 */
+
+.features {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--main-text-color);
+}
+
+.features-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--paragraph-color);
+}
+
+/* Section 3 */
+
+.work {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: var(--main-text-color);
+}
+
+/* Section 4 */
+
+.four {
+  background-color: #f4f4fd;
+}
+
+.team {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: var(--main-text-color);
+}
+.image {
+  background-color: #ffffff;
+}
+
+/* Footer */
+
+.dawn {
+  background-color: var(--background-hero-color);
 }
